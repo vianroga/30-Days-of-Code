@@ -4,7 +4,7 @@
 package hackerrank.Inheritance;
 
 /**
- * @author Lenovo
+ * @author Victor Roman Garrido
  *
  */
 public class Student extends Person {
