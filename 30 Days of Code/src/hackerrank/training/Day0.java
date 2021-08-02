@@ -1,5 +1,4 @@
 package hackerrank.training;
-import java.util.Iterator;
 
 /**
  * 
