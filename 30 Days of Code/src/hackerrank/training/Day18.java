@@ -16,7 +16,7 @@ import java.util.Stack;
 public class Day18 {
 	
 	Stack<Character> pila = new Stack<Character>();
-	Queue<Character> cola = new LinkedList<>();
+	Queue<Character> cola = new LinkedList<Character>();
 	
 	private char popCharacter() {
 		// TODO Auto-generated method stub
