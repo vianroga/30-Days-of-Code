@@ -4,7 +4,6 @@
  */
 package hackerrank.linkedlist;
 
-import java.util.LinkedList;
 import java.util.Scanner;
 
 /**
