@@ -20,7 +20,6 @@ public class Day16 {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		BufferedReader bufferedReader = new BufferedReader(new InputStreamReader(System.in));
-        
         try {
         	 String S = bufferedReader.readLine();
         	 System.out.println(Integer.parseInt(S));
