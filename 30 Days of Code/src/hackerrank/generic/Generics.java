@@ -19,6 +19,7 @@ public class Generics {
         Integer[] intArray = new Integer[n];
         
         for (int i = 0; i < n; i++) {
+        	
             intArray[i] = scanner.nextInt();
         }
 
