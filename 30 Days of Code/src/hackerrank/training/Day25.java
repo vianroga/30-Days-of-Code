@@ -10,7 +10,7 @@ import java.util.Scanner;
  * @author Victor Roman Garrido
  *
  */
-public class Day26 {
+public class Day25 {
 	
 	public static boolean primate (int numero) {
 		boolean resultado = true;
