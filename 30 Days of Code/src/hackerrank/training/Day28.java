@@ -45,7 +45,11 @@ public class Day28 {
     		}
         }
         Collections.sort(arrayList);
-        System.out.println(arrayList);
+        for (String string : arrayList) {
+        	System.out.println(string);
+		}
+        
+        
 
         bufferedReader.close();
 	}
